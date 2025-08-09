@@ -72,7 +72,7 @@ Predictive algorithms process this information to estimate the potential lifespa
 The result is sent back and visualized on the frontend, allowing users to interact with predictions and insights based on their music preferences.
 
 Video
-
+https://github.com/user-attachments/assets/17d6120e-c99a-49ff-b8b7-2995a58db4cd
 
 Team Contributions
 Arun P Manoj: Created the design and implemented the frontend.
