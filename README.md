@@ -71,6 +71,8 @@ The backend receives the playlist data and analyzes song features, genres, senti
 Predictive algorithms process this information to estimate the potential lifespan of the user's relationship.
 The result is sent back and visualized on the frontend, allowing users to interact with predictions and insights based on their music preferences.
 
+Video
+
 
 Team Contributions
 Arun P Manoj: Created the design and implemented the frontend.
