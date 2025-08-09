@@ -70,6 +70,6 @@ None
 Team Contributions
 Arun P Manoj: Created the design and implemented the frontend.
 
-Antony S Mechery: [Specific contributions]
+Antony S Mechery: None
 
 Made with ❤️ at TinkerHub Useless Projects
