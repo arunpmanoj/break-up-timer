@@ -58,11 +58,18 @@ For Software:
 <img width="854" height="673" alt="Image" src="https://github.com/user-attachments/assets/dd5b81a3-9399-4349-9280-9b17e824b8fb" />
 <img width="1437" height="876" alt="Image" src="https://github.com/user-attachments/assets/dbdcd567-d23c-4607-ab90-274b54b369c5" />
 <img width="1350" height="869" alt="Image" src="https://github.com/user-attachments/assets/1daa66b4-c34c-4e51-a752-388a102fe48d" />
+
 <img width="1349" height="891" alt="Image" src="https://github.com/user-attachments/assets/b234a9cc-81e7-4a84-b56f-328265bb89cd" />
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
+![PHOTO-2025-08-09-05-43-24](https://github.com/user-attachments/assets/2d1161f8-1f77-4ea8-afdc-2f0f51c4597c)
+
+The workflow for the relationship lifespan prediction app using a Spotify playlist consists of several key stages:
+The user accesses the interactive web application through a React-based frontend.
+The app prompts the user to log in via their Spotify account, authorizing access to their playlists using the Spotify API.
+The backend receives the playlist data and analyzes song features, genres, sentiment, and listening habits.
+Predictive algorithms process this information to estimate the potential lifespan of the user's relationship.
+The result is sent back and visualized on the frontend, allowing users to interact with predictions and insights based on their music preferences.
 
 
 Team Contributions
