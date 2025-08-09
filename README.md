@@ -1,3 +1,4 @@
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 Break-Up Timer 💔
 Basic Details
 Team Name: Meraki
@@ -63,9 +64,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 Add caption explaining your workflow
 
-For Hardware:
-
-None
 
 Team Contributions
 Arun P Manoj: Created the design and implemented the frontend.
