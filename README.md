@@ -1,142 +1,75 @@
-# Break-Up Timer 🎵💔
+Break-Up Timer 💔
+Basic Details
+Team Name: Meraki
 
-**Let your music tell the truth about your relationship**
+Team Members
 
-A beautiful, modern web application that analyzes Spotify playlists to predict relationship compatibility and duration. Built with React, Tailwind CSS, and Framer Motion.
+Team Lead: Arun P Manoj - Sahrdaya College of Engineering and Technology
 
-## ✨ Features
+Member 2: Antony S Mechery - Sahrdaya College of Engineering and Technology
 
-### 🎨 Design System
-- **Modern UI**: Inspired by TinkerHub with bold headings and clean typography
-- **Responsive Design**: Works perfectly on mobile, tablet, and desktop
-- **Smooth Animations**: Powered by Framer Motion for delightful interactions
-- **Color Palette**: Spotify Green, Warm Pink, and Cool Violet gradients
+Project Description
 
-### 📱 Screens
+An interactive web application that predicts the lifespan of a relationship by analyzing the user's Spotify playlist.
 
-1. **Welcome/Splash Screen**
-   - App branding with animated logo
-   - Gradient background with floating shapes
-   - "Start Now" CTA button
+The Problem (that doesn't exist)
 
-2. **Playlist Input Screen**
-   - Two playlist input cards (Your Playlist & Their Playlist)
-   - Spotify connection button
-   - Privacy-focused messaging
+In the modern age of swiping right and ghosting, who has time to wonder how long a relationship will actually last? The anxiety of the unknown is a burden on us all. We've taken on the challenge of solving this pressing issue.
 
-3. **Analyzing Screen**
-   - Animated progress bar
-   - Rotating loading phrases
-   - Pulse animations and floating elements
+The Solution (that nobody asked for)
 
-4. **Results Screen**
-   - Relationship duration prediction
-   - Heart icon with cracking animation
-   - Mood graph visualization
-   - Share and retry functionality
+Our solution is a timer that calculates the "Break-Up Timer" based on the songs in your Spotify playlist. This countdown helps you monitor your relationship's progress and prepares you for the moment the timer hits zero. It's the most honest tool you'll ever use.
 
-## 🚀 Getting Started
+Technical Details
+Technologies/Components Used
 
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
+For Software:
 
-### Installation
+[Languages used, e.g., JavaScript, TypeScript]
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd break-up-timer
-   ```
+[Frameworks used, e.g., React, Next.js]
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+[Libraries used, e.g., Spotify API, Vercel for deployment]
 
-3. **Start the development server**
-   ```bash
-   npm start
-   ```
+[Tools used, e.g., Git, VS Code]
 
-4. **Open your browser**
-   Navigate to `http://localhost:3000`
+For Hardware:
 
-### Build for Production
+None
 
-```bash
-npm run build
-```
+Implementation
 
-## 🛠️ Tech Stack
+For Software:
+# Installation
+[Provide commands for installing dependencies, e.g., npm install or yarn install]
 
-- **React 18** - Modern React with hooks
-- **Tailwind CSS** - Utility-first CSS framework
-- **Framer Motion** - Animation library
-- **Lucide React** - Beautiful icons
-- **React Router** - Client-side routing
+# Run
+[Provide commands to run the project locally, e.g., npm run dev or yarn dev]
 
-## 🎯 Key Components
+Project Documentation
 
-### Reusable Components
-- `Button` - Multiple variants (primary, secondary, gradient, outline)
-- `Card` - Animated cards with hover effects
-- `Input` - Styled form inputs with icons
+For Software:
 
-### Screen Components
-- `WelcomeScreen` - Landing page with animated elements
-- `PlaylistInputScreen` - Form for playlist data
-- `AnalyzingScreen` - Loading state with progress
-- `ResultsScreen` - Results display with charts
+# Screenshots (Add at least 3)
 
-## 🎨 Design Features
 
-### Typography
-- **H1**: 28-32px bold (Poppins)
-- **Body**: 14-16px regular (Inter)
-- **Button text**: Uppercase, bold
+<img width="1456" height="897" alt="Image" src="https://github.com/user-attachments/assets/b9876921-cdb8-4358-826a-cd42538a950b" />
+<img width="854" height="673" alt="Image" src="https://github.com/user-attachments/assets/dd5b81a3-9399-4349-9280-9b17e824b8fb" />
+<img width="1437" height="876" alt="Image" src="https://github.com/user-attachments/assets/dbdcd567-d23c-4607-ab90-274b54b369c5" />
+<img width="1350" height="869" alt="Image" src="https://github.com/user-attachments/assets/1daa66b4-c34c-4e51-a752-388a102fe48d" />
+<img width="1349" height="891" alt="Image" src="https://github.com/user-attachments/assets/b234a9cc-81e7-4a84-b56f-328265bb89cd" />
 
-### Colors
-- **Primary**: Spotify Green (#1DB954)
-- **Secondary**: Warm Pink (#FF6B9D)
-- **Accent**: Cool Violet (#8B5CF6)
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+Add caption explaining your workflow
 
-### Animations
-- Staggered entrance animations
-- Hover effects and micro-interactions
-- Progress bars and loading states
-- Confetti celebration effects
+For Hardware:
 
-## 📱 Responsive Design
+None
 
-The app is fully responsive with:
-- Mobile-first approach
-- Flexible grid layouts
-- Adaptive typography
-- Touch-friendly interactions
+Team Contributions
+Arun P Manoj: Created the design and implemented the frontend.
 
-## 🔮 Future Enhancements
+Antony S Mechery: [Specific contributions]
 
-- [ ] Real Spotify API integration
-- [ ] Advanced sentiment analysis
-- [ ] User accounts and history
-- [ ] Social sharing features
-- [ ] Dark mode support
-- [ ] PWA capabilities
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-**Built with ❤️ and lots of music vibes**
-# break-up-timer
+Made with ❤️ at TinkerHub Useless Projects
