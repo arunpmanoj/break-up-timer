@@ -1,29 +1,29 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 # Break-Up Timer 💔
-Basic Details
-Team Name: Meraki
+## Basic Details
+### Team Name: Meraki
 
-Team Members
+### Team Members
 
 Team Lead: Arun P Manoj - Sahrdaya College of Engineering and Technology
 
 Member 2: Antony S Mechery - Sahrdaya College of Engineering and Technology
 
-Project Description
+### Project Description
 
 An interactive web application that predicts the lifespan of a relationship by analyzing the user's Spotify playlist.
 
-The Problem (that doesn't exist)
+### The Problem (that doesn't exist)
 
 In the modern age of swiping right and ghosting, who has time to wonder how long a relationship will actually last? The anxiety of the unknown is a burden on us all. We've taken on the challenge of solving this pressing issue.
 
-The Solution (that nobody asked for)
+### The Solution (that nobody asked for)
 
 Our solution is a timer that calculates the "Break-Up Timer" based on the songs in your Spotify playlist. This countdown helps you monitor your relationship's progress and prepares you for the moment the timer hits zero. It's the most honest tool you'll ever use.
 
-Technical Details
-Technologies/Components Used
+# Technical Details
+### Technologies/Components Used
 
 For Software:
 
@@ -72,10 +72,10 @@ The backend receives the playlist data and analyzes song features, genres, senti
 Predictive algorithms process this information to estimate the potential lifespan of the user's relationship.
 The result is sent back and visualized on the frontend, allowing users to interact with predictions and insights based on their music preferences.
 
-Video
+# Video
 https://github.com/user-attachments/assets/17d6120e-c99a-49ff-b8b7-2995a58db4cd
 
-Team Contributions
+### Team Contributions
 Arun P Manoj: Created the design and implemented the frontend.
 
 Antony S Mechery: None
